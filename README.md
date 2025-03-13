@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kerimcan Baba!  
-💻 Backend Java Developer | AWS Certified | Spring Boot Enthusiast | Computer Science Graduate
+💻 Backend Java Developer | AWS Certified | Spring Boot Enthusiast
 
 🚀 Passionate about backend development and cloud technologies  
 🔹 Proficient in **Java, Spring Boot, Hibernate, REST APIs, and CI/CD**  
