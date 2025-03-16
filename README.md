@@ -19,5 +19,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
+### 🔗 Profiles 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kjohnbaba)     [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kjohnbaba)  
 
