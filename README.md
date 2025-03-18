@@ -2,7 +2,7 @@
 💻 Backend Java Developer | AWS Certified | Spring Boot Enthusiast
 
 🚀 Passionate about backend development and cloud technologies  
-🔹 Proficient in **Java, Spring Boot, Hibernate, REST APIs, and CI/CD**  
+🔹 Proficient in **Java, Spring Boot, Hibernate, REST APIs, SQL, and CI/CD**  
 🔹 Experienced with **AWS, Docker, and microservices**  
 🔹 Continuously learning and improving my backend development skills  
 
