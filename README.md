@@ -31,9 +31,9 @@
 
 ### 📜 Certifications
 
-- 🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/42cffd38-4c6d-4641-919e-40133cfe2a89/public_url)  
+- 🏅 [AWS Certified Solutions Architect – Associate] (https://www.credly.com/badges/42cffd38-4c6d-4641-919e-40133cfe2a89/public_url)  
   *Issued by AWS, May 2024*  
-- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/9f521f41-541d-43b7-a52b-77f22ad68b2a/linked_in_profile)  
+- 🏅 [AWS Certified Cloud Practitioner] (https://www.credly.com/badges/9f521f41-541d-43b7-a52b-77f22ad68b2a/linked_in_profile)  
   *Issued by AWS, December 2023*  
  
 
