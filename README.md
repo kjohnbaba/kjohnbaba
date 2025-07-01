@@ -5,7 +5,7 @@
 
 🔹 Proficient in **Java, Spring Boot, Hibernate, REST APIs, SQL, and CI/CD**. 
 
-🔹 Experienced with **AWS, Docker, and Microservices**.
+🔹 Experienced with **AWS, Docker, and Microservices**.   
 
 🔹 Continuously learning and improving my development skills.  
 
