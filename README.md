@@ -1,5 +1,5 @@
 #  Hi, I'm Kerimcan Baba!  
-💻 Full-Stack Java Developer | AWS Certified | Spring Boot Enthusiast
+💻 Full-Stack Java Developer | AWS Certified Solutions Architect Associate | Spring Boot Enthusiast
 
 🚀 Passionate about full stack development and cloud technologies.
 
